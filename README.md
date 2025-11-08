@@ -1,1 +1,1 @@
-# atelier
+# Claude code template
